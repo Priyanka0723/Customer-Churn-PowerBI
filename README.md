@@ -77,7 +77,7 @@ This project demonstrates how data visualization and analysis can help businesse
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshots of your Power BI dashboard here)*
+<img width="1428" height="810" alt="Screenshot 2026-04-09 102943" src="https://github.com/user-attachments/assets/76ccf762-a14e-40fb-99d8-b58a0a1be6d7" />
 
 ---
 
