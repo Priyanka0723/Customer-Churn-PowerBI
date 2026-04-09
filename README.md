@@ -99,5 +99,5 @@ This project was completed as part of an internship task provided by SaiKet Syst
 ---
 
 ## 📬 Connect with Me
-- LinkedIn: *(Add your LinkedIn profile link)*
+- LinkedIn: https://www.linkedin.com/in/priyanka0723barman/
 - GitHub: *(Your GitHub profile link)*
