@@ -82,7 +82,7 @@ This project demonstrates how data visualization and analysis can help businesse
 ---
 
 ## 🎥 Video Presentation
-*(Add your LinkedIn video link here after uploading)*
+*https://www.linkedin.com/posts/priyanka0723barman_powerbi-dataanalytics-customerchurn-ugcPost-7447942618065563648-aJAW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-mPNcBU1kRFCyOombYINkBCSOvx1ihoa4*
 
 ---
 
